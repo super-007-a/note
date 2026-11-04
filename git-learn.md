@@ -20,6 +20,10 @@
 
 - git rm 删除文件
 
+- git log 查看提交历史
+
+- git reflog 查看每次操作历史
+
 **分支操作**
 
 - git branch 查看分支列表
